@@ -1,0 +1,13 @@
+/node_modules
+/backups
+/mongo_backups
+/mongo_backups/*
+/uploads
+.env
+.DS_Store
+logs.json
+node_modules.zip
+controller/face/*
+controller/temp/*
+!controller/face/.gitkeep
+!controller/temp/.gitkeep
